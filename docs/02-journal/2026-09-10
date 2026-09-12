@@ -9,3 +9,42 @@
 
 ![circuitPrincipale](images/circuitp.png)
 
+- Liste des composants
+    - ESP32 S3
+    - Multimètre
+    - Résistances
+
+    ![resistance](images/resistance.png)
+    
+    - Bouton poussoir
+    
+    ![Bouton Poussoir](images/boutonPoussoir.png)
+    
+    - Buzzer
+    
+    ![Buzzer](images/buzzer.png)
+    
+    - Recepteur Infra Rouge
+    
+    ![Recpteur Infra Rouge](images/recepteurIR.png)
+    
+    - Leds
+    
+    ![Led](images/led.png)
+    
+    - Digital Caliper: Utiliser pour prendre les mesures des composants et outils
+    
+    ![](images/digitalCaliper.png)
+
+
+# Appris
+
+- Ajout de nouveaux composants sur KiCad
+- Edition des empreintes sur Kicad
+
+## Décidé
+- Recherche sur developpement du code python
+
+## À faire demain
+- [Devéloppement du code micro python pour le minuteur et edition PCB] — Méyébinesso ADOKOUM
+    
